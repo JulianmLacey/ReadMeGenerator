@@ -27,13 +27,12 @@ ${data.license} License, View 'License' In Reopsitory
 ## Description 
 ${data.description}
 
-## Table of Contents (Optional)
+## Table of Contents
 - [License](#license)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Tests](#tests)
-- [Features](#features)
 
 ## Installation 
 ${data.installation}
@@ -45,7 +44,7 @@ ${data.usage}
 ${data.contributing}
 
 ## Tests
-${data.Tests}
+${data.tests}
 
 ## Questions
 - View My [GitHub](https://github.com/${data.githubUser})
