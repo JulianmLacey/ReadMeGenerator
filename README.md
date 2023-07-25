@@ -24,8 +24,8 @@ GIVEN a command-line application that accepts user input:
 
 The following animation demonstrates the application functionality:
 
-![Mockup](./mockup.png)
-
+![Mockup](./images/mockup.png)
+![Mockup](./images/github.png)
 
 ## Live Demo
 
