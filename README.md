@@ -1,5 +1,5 @@
 # Command Line README Generator
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
 
 This application creates a README file base on the user input in the terminal
