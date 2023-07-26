@@ -33,6 +33,11 @@ The following animation demonstrates the application functionality:
 ![Mockup](./images/mockup.png)
 ![Mockup](./images/github.png)
 
+https://github.com/JulianmLacey/ReadMeGenerator/assets/117090683/0581a137-3faa-4681-bb34-c9a136162f26
+
+
+
+
 ## Live Demo
 
 A Live Demo Can be Found [Here](https://julianmlacey.github.io/ReadMeGenerator/)
