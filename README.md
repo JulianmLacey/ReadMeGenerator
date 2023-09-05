@@ -33,13 +33,7 @@ The following animation demonstrates the application functionality:
 ![Mockup](./images/mockup.png)
 ![Mockup](./images/github.png)
 
-![Video Demo](https://github.com/JulianmLacey/ReadMeGenerator/assets/117090683/48923315-a8f1-43fb-88c2-45fab03b728c)
-
-
-
-
-
-
+![LiveDemo](https://github.com/JulianmLacey/ReadMeGenerator/assets/117090683/48923315-a8f1-43fb-88c2-45fab03b728c)
 
 
 ## Live Demo
